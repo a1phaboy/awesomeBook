@@ -1,0 +1,31 @@
+# SQL注入
+
+危害：数据库信息泄露、数据库被窃取、网页篡改、RCE
+
+分为：数字型注入 和 字符串型注入
+
+条件：输入可控 && 直接/间接拼入SQL语句
+
+执行函数：
+
+java.sql.Statement 原生
+
+java.sql.PreparedStatement 占位符预编译
+
+mybatis: 通过xml映射文件映射sql的标识字符串 #{}为安全写法
+
+seek：
+
+直接拼接
+
+错误的预编译
+
+order by 注入 order by后面是加字段名而不是引号，因此不能用预编译
+
+mybatis中几种不能预编译的场景：order by、like、in
+
+keywords：
+
+statement、createStatement、PrepareStatement、select、update、insert、like、in、order by
+
+二次注入
