@@ -18,6 +18,14 @@
   * [Components with Known Vulnerabilities](pentest/owasp-top10/components-with-known-vulnerabilities.md)
   * [Insufficient Logging & Monitoring](pentest/owasp-top10/insufficient-logging-and-monitoring.md)
 
+## PROTOCOL
+
+* [Page 3](protocol/page-3.md)
+
 ## TOOL DEV
 
 * [Page 2](tool-dev/page-2.md)
+
+## BYPASS
+
+* [Page 4](bypass/page-4.md)
