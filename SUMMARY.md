@@ -24,7 +24,7 @@
 
 ## TOOL DEV
 
-* [Page 2](tool-dev/page-2.md)
+* [污点分析技术](tool-dev/wu-dian-fen-xi-ji-shu.md)
 
 ## BYPASS
 
