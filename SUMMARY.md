@@ -24,6 +24,8 @@
 
 ## TOOL DEV
 
+* [socks原理](tool-dev/socks-yuan-li.md)
+
 ## BYPASS
 
 * [Page 4](bypass/page-4.md)
