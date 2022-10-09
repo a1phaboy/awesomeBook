@@ -18,13 +18,11 @@
   * [Components with Known Vulnerabilities](pentest/owasp-top10/components-with-known-vulnerabilities.md)
   * [Insufficient Logging & Monitoring](pentest/owasp-top10/insufficient-logging-and-monitoring.md)
 
-## PROTOCOL
+## SKILLS
 
-* [Page 3](protocol/page-3.md)
+* [污点分析技术](skills/wu-dian-fen-xi-ji-shu.md)
 
 ## TOOL DEV
-
-* [污点分析技术](tool-dev/wu-dian-fen-xi-ji-shu.md)
 
 ## BYPASS
 
