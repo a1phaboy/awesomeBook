@@ -20,7 +20,7 @@
 
 ## SKILLS
 
-* [污点分析技术](skills/wu-dian-fen-xi-ji-shu.md)
+* [污点分析技术](tool-dev/page-2.md)
 
 ## TOOL DEV
 
