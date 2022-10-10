@@ -30,4 +30,4 @@
 
 ## PROTOCOL
 
-* [socks原理](protocol/socks-yuan-li.md)
+* [socks](protocol/socks.md)
