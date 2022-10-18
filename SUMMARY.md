@@ -23,8 +23,11 @@
 ## SKILLS
 
 * [污点分析技术](tool-dev/page-2.md)
+* [codeQL](skills/codeql.md)
 
 ## TOOL DEV
+
+* [Qt5](tool-dev/qt5.md)
 
 ## BYPASS
 
