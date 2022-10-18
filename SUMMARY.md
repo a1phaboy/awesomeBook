@@ -17,6 +17,8 @@
   * [Insecure Deserialization](pentest/owasp-top10/insecure-deserialization.md)
   * [Components with Known Vulnerabilities](pentest/owasp-top10/components-with-known-vulnerabilities.md)
   * [Insufficient Logging & Monitoring](pentest/owasp-top10/insufficient-logging-and-monitoring.md)
+* [JAVA硬菜](pentest/java-ying-cai/README.md)
+  * [DNSURL](pentest/java-ying-cai/dnsurl.md)
 
 ## SKILLS
 
